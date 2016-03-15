@@ -7,3 +7,4 @@ CAReplicatorLayer动画
 
 
 效果图见Wiki
+![careplicatorlayer.gif](https://github.com/zhoubo2015/CAReplicatorLayerDemo/blob/master/careplicatorlayer.gif)
