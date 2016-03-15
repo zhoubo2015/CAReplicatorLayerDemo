@@ -1,5 +1,5 @@
 # CAReplicatorLayerDemo
-CAReplicatorLayer动画
+CAReplicatorLayer动画：音乐动画、等待动画、跟随动画
 
 
 感谢HarriesChen，原文链接http://www.jianshu.com/p/76c588893b19 
